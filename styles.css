@@ -36,3 +36,9 @@ input {
 img {
 	max-width: 300px;
 }
+
+.favBtn{
+	background-color: rgb(238, 238, 119);
+	width: 25vh;
+	height: 100px;
+}
